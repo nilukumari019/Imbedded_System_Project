@@ -1,6 +1,4 @@
-/*****************************************TECHIEYAN TECHNOLOGIES************************************************************/
-/*         For more such projects visit : https://techieyantechnologies.com/
- *          
+         
 /* _______________________________fire Detector___________________________________________________*/   
 
 #define buzzerPin 12                      //buzzer pin connecetd to pin 11 of Arduino Nano 
